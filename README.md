@@ -1,29 +1,25 @@
-# 🚀 My IT Learning Journey
+# 🚀 My IT & Cyber Security Learning Journey
 
 Welcome to my GitHub profile!  
-I am currently pursuing the **Advanced Diploma in Hardware & Networking Professional (ADHNP)** and building my skills in Networking, System Administration, Cloud Computing, and Cyber Security.
+I am currently pursuing my **HND in Networking & Cyber Security at WinSYS City Campus** and building my skills to become a professional in the IT industry.
 
-This GitHub profile is dedicated to documenting my learning journey, practical projects, notes, and technical progress as I continue growing in the IT industry.
+This profile is dedicated to documenting my practical labs, research, and advanced technical progress.
 
-## 🎓 Currently Learning
-- **Computer Hardware** – PC Architecture, Troubleshooting & Maintenance
-- **Networking** – Routing, Switching, IP Addressing & Network Fundamentals
-- **System Administration** – Windows Server & Linux Administration
-- **Cloud Computing** – Microsoft Azure Fundamentals
-- **Cyber Security Basics** – System Security & Network Protection
+---
 
-## 🎯 Career Goals
-- Become a Professional Network & Cloud Engineer
-- Develop skills in Cyber Security and DevSecOps
-- Build practical real-world IT projects
-- Contribute to the global IT community through continuous learning
+🎓 ## Currently Learning
+* **Advanced Networking** – Routing, Switching, and Infrastructure Design.
+* **Cyber Security & Ethical Hacking** – Threat Analysis and System Defense.
+* **Linux & Windows Server Administration** – Enterprise Server Management.
 
-## 🛠️ Future Projects
-- Linux Home Server Setup
-- Basic Network Configuration Labs
-- Windows Server Administration Labs
-- Azure Cloud Practice Projects
-- Cyber Security Practice Labs
+---
 
-## 📫 Connect With Me
-- **Email:** manilka.silini.it@gmail.com
+🛠️ ## Future Projects (Innovative & Unique)
+* **IoT Honeypot Simulation** – Creating a deceptive network trap to capture and analyze real-time IoT exploits.
+* **Zero-Trust Network Architecture** – Designing a strict identity-verified network simulation for remote office environments.
+* **Automated Ransomware Defense Trigger** – Writing automated scripts to detect rapid file encryption and isolate network endpoints.
+
+---
+
+📫 ## Connect With Me
+* **Email:** manilka.silini.it@gmail.com
